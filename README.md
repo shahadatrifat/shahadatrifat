@@ -13,18 +13,18 @@
 ---
 
 ### 📫 How to reach me:
-**📧 Email:** jahidhasan.en@gmail.com  
-**😄 Pronouns:** He/Him  
+**📧 Email:** contact.shahadat.rifat@gmail.com 
+** Pronouns:** He/Him  
 
 ---
 
 ## 💼 Skills
-💻 **MERN Stack Developer & 🎯 Digital Marketer**  
+💻 **Ful-Stack Stack Developer &  **  
 **Building & Promoting Modern Web Solutions**
 
 - 🔭 I’m currently working on improving this page  
 - 📫 Reach me anytime: **jahidhasan.en@gmail.com**  
-- 😄 Pronouns: **He/Him**
+-  Pronouns: **He/Him**
 
 ---
 
