@@ -1,6 +1,6 @@
 <!-- 🖼️ Profile Banner -->
 <p align="center">
- <img src="[https://i.ibb.co/3YCy6tHM/White-and-Navy-Modern-Business-Consultant-Linked-In-Article-Cover-Image-20251008-025930-0000.png](https://i.ibb.co.com/LDtgVYSQ/rifat.jpg)" alt="Shahadat">
+ <img src="[https://i.ibb.co.com/LDtgVYSQ/rifat.jpg]" alt="Shahadat">
 </p>
 
 ---
