@@ -1,7 +1,8 @@
 <!-- 🖼️ Profile Banner -->
 <p align="center">
- <img src="[https://i.ibb.co.com/LDtgVYSQ/rifat.jpg]" alt="Shahadat">
+  <img src="https://i.ibb.co/LDtgVYSQ/rifat.jpg" alt="Shahadat">
 </p>
+
 
 ---
 
