@@ -1,14 +1,23 @@
-# Hi, I'm Shahadatrifat
+<!-- 🖼️ Profile Banner -->
+<p align="center">
+  <img src="https://i.ibb.co.com/rfp6fz9F/83c46aac-bfc2-47da-a738-cc619a64db4b.png" alt="Shahadat Rifat Banner" width="100%" />
+</p>
 
-## Tools & Technologies
+#  I'm **Shahadat Rifat**
+
+>  Full Stack Developer | Next.js & React Enthusiast | Building Scalable Web Apps  
+
+---
+
+##  Tools & Technologies
 
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-22272B?logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-111111?logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
@@ -21,7 +30,7 @@
 
 ---
 
-## 📊 Stats
+##  Stats
 
 <p align="center">
   <img src="https://img.shields.io/badge/-200%2B%20Contributions%20in%202025-blue?style=for-the-badge" />
@@ -33,34 +42,47 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### [FreshFinds](#)
-A platform for discovering and sharing unique products. Built with React, Express.js, and MongoDB, FreshFinds lets users post, review, and explore trending items. It features real-time search, user authentication, and a responsive interface powered by Tailwind CSS.
+### 🛍️ [FreshFinds](#)
+A platform for discovering and sharing unique products. Built with **React**, **Express.js**, and **MongoDB**, FreshFinds lets users post, review, and explore trending items.  
+🧩 *Features:* real-time search, Firebase authentication, and responsive UI with TailwindCSS.
 
-### [Foliora](#)
-Foliora is a personal portfolio and blogging platform developed with Next.js, Prisma, and shadcn/ui. Users can showcase projects, write articles, and manage their profiles. The site emphasizes modern design, fast performance, and seamless content management.
+---
 
-### [Recipe Book](#)
-Recipe Book is a collaborative recipe management app using React, Redux, Firebase, and Socket.io. Users can add, edit, and share recipes, organize ingredients, and interact in real-time. The platform supports authentication, live updates, and a user-friendly experience for food enthusiasts.
+### 📚 [Foliora](#)
+A personal portfolio and bookshelf app developed with **Next.js**, **Prisma**, and **shadcn/ui**.  
+⚡ *Highlights:* elegant UI, smooth animations, and fast content management.
+
+---
+
+### 🍲 [Recipe Book](#)
+A collaborative recipe management app using **React**, **Redux**, **Firebase**, and **Socket.io**.  
+👩‍🍳 *Features:* add/edit recipes, organize ingredients, live updates, and authentication.
 
 ---
 
 ## 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?logo=githubpages&logoColor=white&style=for-the-badge)](https://shahadatrifat.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shahadat-rifat)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/shahadat.hossain.rifat.770767)
-[![X (Twitter)](https://img.shields.io/badge/-Twitter-black?logo=x&logoColor=white&style=for-the-badge)](https://x.com/ShahadatRifat)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/zazazawg)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:contact.shahadat.rifat@gmail.com)
-
+<p align="center">
+  <a href="https://shahadatrifat.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-24292F?logo=githubpages&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/shahadat-rifat"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.facebook.com/shahadat.hossain.rifat.770767"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://x.com/ShahadatRifat"><img src="https://img.shields.io/badge/-Twitter-black?logo=x&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/zazazawg"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:contact.shahadat.rifat@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ---
 
-## About
+##  About Me
 
-I build scalable web applications with a modern stack, combining frontend frameworks like React/Next.js with robust backend architectures using Express.js and MongoDB.  
-I use tools such as Docker for deployment, Prisma for ORM, and technologies like Redux and JWT for state management and authentication.
+I build **scalable web applications** using modern tools and frameworks.  
+I love crafting clean UI/UX with **Next.js** and **React**, backed by robust APIs built in **Express.js** and **MongoDB**.  
 
-*Want more details or to connect? Just reach out!*
+🧩 **What I use most:** Prisma, Redux, JWT, Firebase, and Docker.  
+🚀 **Goal:** Create efficient, elegant, and meaningful digital experiences.  
+
+---
+
+<p align="center">⭐️ *Let’s build something GOATED together!* ⭐️</p>
