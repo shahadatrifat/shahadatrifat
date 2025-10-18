@@ -48,9 +48,13 @@ Recipe Book is a collaborative recipe management app using React, Redux, Firebas
 
 ## 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?logo=githubpages&logoColor=white&style=for-the-badge)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-username)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/your-facebook-username)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?logo=githubpages&logoColor=white&style=for-the-badge)](https://shahadatrifat.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shahadat-rifat)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/shahadat.hossain.rifat.770767)
+[![X (Twitter)](https://img.shields.io/badge/-Twitter-black?logo=x&logoColor=white&style=for-the-badge)](https://x.com/ShahadatRifat)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/zazazawg)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:contact.shahadat.rifat@gmail.com)
+
 
 ---
 
