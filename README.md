@@ -1,9 +1,9 @@
-<!-- 🖼️ Profile Banner -->
+<!--  Profile Banner -->
 <p align="center">
   <img src="https://i.ibb.co.com/rfp6fz9F/83c46aac-bfc2-47da-a738-cc619a64db4b.png" alt="Shahadat Rifat Banner" width="100%" />
 </p>
 
-#  I'm **Shahadat Rifat**
+#  I'm **Shahadat Hossain Rifat**
 
 >  Full Stack Developer | Next.js & React Enthusiast | Building Scalable Web Apps  
 
