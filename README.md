@@ -80,7 +80,7 @@ A collaborative recipe management app using **React**, **Redux**, **Firebase**, 
 I build **scalable web applications** using modern tools and frameworks.  
 I love crafting clean UI/UX with **Next.js** and **React**, backed by robust APIs built in **Express.js** and **MongoDB**.  
 
-🧩 **What I use most:** Prisma, Redux, JWT, Firebase, and Docker.  
+🧩 **What I use most:** React, JavaScript, MongoDB, Firebase, and ExpressJS.  
 🚀 **Goal:** Create efficient, elegant, and meaningful digital experiences.  
 
 ---
